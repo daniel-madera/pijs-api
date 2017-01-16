@@ -1,0 +1,877 @@
+[{
+  "model": "api.word",
+  "pk": 19,
+  "fields": {
+    "created": "2016-11-29T22:03:39.818Z",
+    "modified": "2016-11-29T22:03:39.818Z",
+    "value": "father",
+    "meaning": "otec",
+    "definition": "a male parent",
+    "usage": "Father takes care of our family bank account.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 1,
+    "module": 2,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 20,
+  "fields": {
+    "created": "2016-11-29T22:03:39.823Z",
+    "modified": "2016-11-29T22:03:39.823Z",
+    "value": "difficulty",
+    "meaning": "obt\u00ed\u017enost",
+    "definition": "a cause of trouble, struggle, or embarrassment",
+    "usage": "He had done his homework with great difficulty.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 4,
+    "module": 2,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 21,
+  "fields": {
+    "created": "2016-11-29T22:03:39.826Z",
+    "modified": "2016-11-29T22:03:39.826Z",
+    "value": "apple",
+    "meaning": "jablko",
+    "definition": "the usually round, red or yellow, edible fruit of a small tree",
+    "usage": "Apple can taste sweet or bitter.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 1,
+    "module": 2,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 22,
+  "fields": {
+    "created": "2016-11-29T22:03:39.830Z",
+    "modified": "2016-11-29T22:03:39.830Z",
+    "value": "sister",
+    "meaning": "sestra",
+    "definition": "a female offspring having both parents in common with another offspring",
+    "usage": "",
+    "picture": "",
+    "sound": "",
+    "difficulty": 2,
+    "module": 2,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 23,
+  "fields": {
+    "created": "2016-11-29T22:03:39.833Z",
+    "modified": "2016-11-29T22:03:39.833Z",
+    "value": "brown",
+    "meaning": "hn\u011bd\u00e1",
+    "definition": "a dark tertiary color with a yellowish or reddish hue",
+    "usage": "Color of his eyes is brown.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 2,
+    "module": 2,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 24,
+  "fields": {
+    "created": "2016-11-29T22:03:39.837Z",
+    "modified": "2016-11-29T22:03:39.837Z",
+    "value": "furniture",
+    "meaning": "n\u00e1bytek",
+    "definition": "",
+    "usage": "",
+    "picture": "",
+    "sound": "",
+    "difficulty": 4,
+    "module": 2,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 25,
+  "fields": {
+    "created": "2016-11-29T22:03:39.840Z",
+    "modified": "2016-11-29T22:03:39.840Z",
+    "value": "forward",
+    "meaning": "dop\u0159edu",
+    "definition": "",
+    "usage": "Keep moving forward!",
+    "picture": "",
+    "sound": "",
+    "difficulty": 3,
+    "module": 3,
+    "word_class": 6
+  }
+}, {
+  "model": "api.word",
+  "pk": 26,
+  "fields": {
+    "created": "2016-11-29T22:03:39.844Z",
+    "modified": "2016-11-29T22:03:39.844Z",
+    "value": "fresh",
+    "meaning": "\u010derstv\u00e9",
+    "definition": "newly made or obtained",
+    "usage": "I love fresh baked bread in the morning.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 2,
+    "module": 3,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 27,
+  "fields": {
+    "created": "2016-11-29T22:03:39.847Z",
+    "modified": "2016-11-29T22:03:39.847Z",
+    "value": "people",
+    "meaning": "lid\u00e9",
+    "definition": "",
+    "usage": "People walks the Earth.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 2,
+    "module": 3,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 28,
+  "fields": {
+    "created": "2016-11-29T22:03:39.850Z",
+    "modified": "2016-11-29T22:03:39.851Z",
+    "value": "year",
+    "meaning": "rok",
+    "definition": "",
+    "usage": "",
+    "picture": "",
+    "sound": "",
+    "difficulty": 1,
+    "module": 3,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 29,
+  "fields": {
+    "created": "2016-11-29T22:03:39.854Z",
+    "modified": "2016-11-29T22:03:39.854Z",
+    "value": "think",
+    "meaning": "myslet",
+    "definition": "",
+    "usage": "",
+    "picture": "",
+    "sound": "",
+    "difficulty": 3,
+    "module": 3,
+    "word_class": 5
+  }
+}, {
+  "model": "api.word",
+  "pk": 30,
+  "fields": {
+    "created": "2016-11-29T22:03:39.861Z",
+    "modified": "2016-11-29T22:03:39.861Z",
+    "value": "well",
+    "meaning": "dob\u0159e",
+    "definition": "in a good or satisfactory manner",
+    "usage": "Well done!",
+    "picture": "",
+    "sound": "",
+    "difficulty": 1,
+    "module": 3,
+    "word_class": 6
+  }
+}, {
+  "model": "api.word",
+  "pk": 31,
+  "fields": {
+    "created": "2016-11-29T22:03:39.865Z",
+    "modified": "2016-11-29T22:03:39.865Z",
+    "value": "nice",
+    "meaning": "mil\u00fd",
+    "definition": "pleasing, agreeable or delightful",
+    "usage": "",
+    "picture": "",
+    "sound": "",
+    "difficulty": 1,
+    "module": 4,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 32,
+  "fields": {
+    "created": "2016-11-29T22:03:39.868Z",
+    "modified": "2016-11-29T22:03:39.868Z",
+    "value": "time",
+    "meaning": "\u010das",
+    "definition": "",
+    "usage": "I'm sorry, I have no time to delay.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 2,
+    "module": 4,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 33,
+  "fields": {
+    "created": "2016-11-29T22:03:39.872Z",
+    "modified": "2016-11-29T22:03:39.872Z",
+    "value": "it",
+    "meaning": "to",
+    "definition": "",
+    "usage": "",
+    "picture": "",
+    "sound": "",
+    "difficulty": 1,
+    "module": 4,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 34,
+  "fields": {
+    "created": "2016-11-29T22:05:21.820Z",
+    "modified": "2016-11-29T22:05:21.820Z",
+    "value": "father",
+    "meaning": "otec",
+    "definition": "a male parent",
+    "usage": "Father takes care of our family bank account.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 1,
+    "module": 10,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 35,
+  "fields": {
+    "created": "2016-11-29T22:05:21.825Z",
+    "modified": "2016-11-29T22:05:21.825Z",
+    "value": "difficulty",
+    "meaning": "obt\u00ed\u017enost",
+    "definition": "a cause of trouble, struggle, or embarrassment",
+    "usage": "He had done his homework with great difficulty.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 4,
+    "module": 10,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 36,
+  "fields": {
+    "created": "2016-11-29T22:05:21.829Z",
+    "modified": "2016-11-29T22:05:21.829Z",
+    "value": "apple",
+    "meaning": "jablko",
+    "definition": "the usually round, red or yellow, edible fruit of a small tree",
+    "usage": "Apple can taste sweet or bitter.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 1,
+    "module": 10,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 37,
+  "fields": {
+    "created": "2016-11-29T22:05:21.832Z",
+    "modified": "2016-11-29T22:05:21.832Z",
+    "value": "sister",
+    "meaning": "sestra",
+    "definition": "a female offspring having both parents in common with another offspring",
+    "usage": "",
+    "picture": "",
+    "sound": "",
+    "difficulty": 2,
+    "module": 10,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 38,
+  "fields": {
+    "created": "2016-11-29T22:05:21.836Z",
+    "modified": "2016-11-29T22:05:21.836Z",
+    "value": "brown",
+    "meaning": "hn\u011bd\u00e1",
+    "definition": "a dark tertiary color with a yellowish or reddish hue",
+    "usage": "Color of his eyes is brown.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 2,
+    "module": 10,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 39,
+  "fields": {
+    "created": "2016-11-29T22:05:21.839Z",
+    "modified": "2016-11-29T22:05:21.839Z",
+    "value": "furniture",
+    "meaning": "n\u00e1bytek",
+    "definition": "",
+    "usage": "",
+    "picture": "",
+    "sound": "",
+    "difficulty": 4,
+    "module": 10,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 40,
+  "fields": {
+    "created": "2016-11-29T22:05:21.842Z",
+    "modified": "2016-11-29T22:05:21.843Z",
+    "value": "forward",
+    "meaning": "dop\u0159edu",
+    "definition": "",
+    "usage": "Keep moving forward!",
+    "picture": "",
+    "sound": "",
+    "difficulty": 3,
+    "module": 10,
+    "word_class": 6
+  }
+}, {
+  "model": "api.word",
+  "pk": 41,
+  "fields": {
+    "created": "2016-11-29T22:05:21.846Z",
+    "modified": "2016-11-29T22:05:21.846Z",
+    "value": "fresh",
+    "meaning": "\u010derstv\u00e9",
+    "definition": "newly made or obtained",
+    "usage": "I love fresh baked bread in the morning.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 2,
+    "module": 10,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 42,
+  "fields": {
+    "created": "2016-11-29T22:05:21.850Z",
+    "modified": "2016-11-29T22:05:21.850Z",
+    "value": "people",
+    "meaning": "lid\u00e9",
+    "definition": "",
+    "usage": "People walks the Earth.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 2,
+    "module": 10,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 43,
+  "fields": {
+    "created": "2016-11-29T22:05:21.851Z",
+    "modified": "2016-11-29T22:05:21.851Z",
+    "value": "year",
+    "meaning": "rok",
+    "definition": "",
+    "usage": "",
+    "picture": "",
+    "sound": "",
+    "difficulty": 1,
+    "module": 10,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 44,
+  "fields": {
+    "created": "2016-11-29T22:05:21.853Z",
+    "modified": "2016-11-29T22:05:21.853Z",
+    "value": "think",
+    "meaning": "myslet",
+    "definition": "",
+    "usage": "",
+    "picture": "",
+    "sound": "",
+    "difficulty": 3,
+    "module": 11,
+    "word_class": 5
+  }
+}, {
+  "model": "api.word",
+  "pk": 45,
+  "fields": {
+    "created": "2016-11-29T22:05:21.855Z",
+    "modified": "2016-11-29T22:05:21.855Z",
+    "value": "well",
+    "meaning": "dob\u0159e",
+    "definition": "in a good or satisfactory manner",
+    "usage": "Well done!",
+    "picture": "",
+    "sound": "",
+    "difficulty": 1,
+    "module": 11,
+    "word_class": 6
+  }
+}, {
+  "model": "api.word",
+  "pk": 46,
+  "fields": {
+    "created": "2016-11-29T22:05:21.857Z",
+    "modified": "2016-11-29T22:05:21.857Z",
+    "value": "nice",
+    "meaning": "mil\u00fd",
+    "definition": "pleasing, agreeable or delightful",
+    "usage": "",
+    "picture": "",
+    "sound": "",
+    "difficulty": 1,
+    "module": 11,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 47,
+  "fields": {
+    "created": "2016-11-29T22:05:21.861Z",
+    "modified": "2016-11-29T22:05:21.861Z",
+    "value": "time",
+    "meaning": "\u010das",
+    "definition": "",
+    "usage": "I'm sorry, I have no time to delay.",
+    "picture": "",
+    "sound": "",
+    "difficulty": 2,
+    "module": 11,
+    "word_class": 1
+  }
+}, {
+  "model": "api.word",
+  "pk": 48,
+  "fields": {
+    "created": "2016-11-29T22:05:21.864Z",
+    "modified": "2016-11-29T22:05:21.864Z",
+    "value": "it",
+    "meaning": "to",
+    "definition": "",
+    "usage": "",
+    "picture": "",
+    "sound": "",
+    "difficulty": 1,
+    "module": 11,
+    "word_class": 1
+  }
+}, {
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$30000$pCVPpawnymXC$poid50xwcSnjSwa7YBjwSSHOftW/fxLLy1C5sHtlk5I=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "novak",
+    "first_name": "Jan",
+    "last_name": "Novák",
+    "email": "jan.novak@example.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2016-12-01T00:21:37.549Z",
+    "groups": [
+
+    ],
+    "user_permissions": [
+
+    ]
+  }
+}, {
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$30000$pCVPpawnymXC$poid50xwcSnjSwa7YBjwSSHOftW/fxLLy1C5sHtlk5I=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "jahoda",
+    "first_name": "Petr",
+    "last_name": "Jahoda",
+    "email": "petr.jahoda@example.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2016-12-01T00:21:37.549Z",
+    "groups": [
+
+    ],
+    "user_permissions": [
+
+    ]
+  }
+}, {
+  "model": "auth.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$30000$pCVPpawnymXC$poid50xwcSnjSwa7YBjwSSHOftW/fxLLy1C5sHtlk5I=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "krasna",
+    "first_name": "Lenka",
+    "last_name": "Kr\u00e1sn\u00e1",
+    "email": "lenka.krasna@example.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2016-12-01T00:21:37.549Z",
+    "groups": [
+
+    ],
+    "user_permissions": [
+
+    ]
+  }
+}, {
+  "model": "auth.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$30000$pCVPpawnymXC$poid50xwcSnjSwa7YBjwSSHOftW/fxLLy1C5sHtlk5I=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "pomezny",
+    "first_name": "Lubom\u00edr",
+    "last_name": "Pomezn\u00fd",
+    "email": "lubomir.pomezny@example.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2016-12-01T00:21:37.549Z",
+    "groups": [
+
+    ],
+    "user_permissions": [
+
+    ]
+  }
+}, {
+  "model": "auth.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$30000$pCVPpawnymXC$poid50xwcSnjSwa7YBjwSSHOftW/fxLLy1C5sHtlk5I=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "mize",
+    "first_name": "Luk\u00e1\u0161",
+    "last_name": "Mize",
+    "email": "lukas.mize@example.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2016-12-01T00:21:37.549Z",
+    "groups": [
+
+    ],
+    "user_permissions": [
+
+    ]
+  }
+}, {
+  "model": "auth.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$30000$pCVPpawnymXC$poid50xwcSnjSwa7YBjwSSHOftW/fxLLy1C5sHtlk5I=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "farska",
+    "first_name": "Lucie",
+    "last_name": "Farsk\u00e1",
+    "email": "lucie.farska@example.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2016-12-01T00:21:37.549Z",
+    "groups": [
+
+    ],
+    "user_permissions": [
+
+    ]
+  }
+}, {
+  "model": "api.textbook",
+  "pk": 1,
+  "fields": {
+    "created": "2016-11-29T20:14:31.428Z",
+    "modified": "2016-11-29T20:14:31.428Z",
+    "title": "Headway 1",
+    "language": 1,
+    "owner": 2
+  }
+}, {
+  "model": "api.textbook",
+  "pk": 2,
+  "fields": {
+    "created": "2016-11-29T20:14:42.468Z",
+    "modified": "2016-11-29T20:14:42.468Z",
+    "title": "Headway 2",
+    "language": 1,
+    "owner": 2
+  }
+}, {
+  "model": "api.textbook",
+  "pk": 3,
+  "fields": {
+    "created": "2016-11-29T20:15:02.395Z",
+    "modified": "2016-11-29T20:15:02.395Z",
+    "title": "Planetino 1",
+    "language": 2,
+    "owner": 7
+  }
+}, {
+  "model": "api.textbook",
+  "pk": 4,
+  "fields": {
+    "created": "2016-11-29T20:15:21.691Z",
+    "modified": "2016-11-29T20:15:21.691Z",
+    "title": "Planetino 2",
+    "language": 2,
+    "owner": 7
+  }
+}, {
+  "model": "api.textbook",
+  "pk": 5,
+  "fields": {
+    "created": "2016-11-29T20:15:32.425Z",
+    "modified": "2016-11-29T20:15:32.425Z",
+    "title": "Planetino 3",
+    "language": 2,
+    "owner": 7
+  }
+}, {
+  "model": "api.module",
+  "pk": 2,
+  "fields": {
+    "created": "2016-11-29T20:45:38.285Z",
+    "modified": "2016-11-29T20:45:38.285Z",
+    "title": "Lekce 1",
+    "textbook": 1
+  }
+}, {
+  "model": "api.module",
+  "pk": 3,
+  "fields": {
+    "created": "2016-11-29T20:45:38.289Z",
+    "modified": "2016-11-29T20:45:38.289Z",
+    "title": "Lekce 2",
+    "textbook": 1
+  }
+}, {
+  "model": "api.module",
+  "pk": 4,
+  "fields": {
+    "created": "2016-11-29T20:45:38.291Z",
+    "modified": "2016-11-29T20:45:38.291Z",
+    "title": "Lekce 3",
+    "textbook": 1
+  }
+}, {
+  "model": "api.module",
+  "pk": 5,
+  "fields": {
+    "created": "2016-11-29T20:45:38.293Z",
+    "modified": "2016-11-29T20:45:38.293Z",
+    "title": "Lekce 4",
+    "textbook": 1
+  }
+}, {
+  "model": "api.module",
+  "pk": 6,
+  "fields": {
+    "created": "2016-11-29T20:46:26.683Z",
+    "modified": "2016-11-29T20:46:26.683Z",
+    "title": "Lekce 1",
+    "textbook": 2
+  }
+}, {
+  "model": "api.module",
+  "pk": 7,
+  "fields": {
+    "created": "2016-11-29T20:46:26.688Z",
+    "modified": "2016-11-29T20:46:26.688Z",
+    "title": "Lekce 2",
+    "textbook": 2
+  }
+}, {
+  "model": "api.module",
+  "pk": 8,
+  "fields": {
+    "created": "2016-11-29T20:46:26.691Z",
+    "modified": "2016-11-29T20:46:26.691Z",
+    "title": "Lekce 3",
+    "textbook": 2
+  }
+}, {
+  "model": "api.module",
+  "pk": 9,
+  "fields": {
+    "created": "2016-11-29T20:46:26.694Z",
+    "modified": "2016-11-29T20:46:26.695Z",
+    "title": "Lekce 4",
+    "textbook": 2
+  }
+}, {
+  "model": "api.module",
+  "pk": 10,
+  "fields": {
+    "created": "2016-11-29T20:47:45.020Z",
+    "modified": "2016-11-29T20:47:45.020Z",
+    "title": "Modul 1",
+    "textbook": 3
+  }
+}, {
+  "model": "api.module",
+  "pk": 11,
+  "fields": {
+    "created": "2016-11-29T20:47:45.025Z",
+    "modified": "2016-11-29T20:47:45.025Z",
+    "title": "Modul 2",
+    "textbook": 3
+  }
+}, {
+  "model": "api.module",
+  "pk": 12,
+  "fields": {
+    "created": "2016-11-29T20:47:45.028Z",
+    "modified": "2016-11-29T20:47:45.028Z",
+    "title": "Modul 3",
+    "textbook": 3
+  }
+}, {
+  "model": "api.module",
+  "pk": 13,
+  "fields": {
+    "created": "2016-11-29T20:47:45.031Z",
+    "modified": "2016-11-29T20:47:45.031Z",
+    "title": "Modul 4",
+    "textbook": 3
+  }
+}, {
+  "model": "api.module",
+  "pk": 14,
+  "fields": {
+    "created": "2016-11-29T20:47:59.461Z",
+    "modified": "2016-11-29T20:47:59.461Z",
+    "title": "Modul 1",
+    "textbook": 4
+  }
+}, {
+  "model": "api.module",
+  "pk": 15,
+  "fields": {
+    "created": "2016-11-29T20:47:59.465Z",
+    "modified": "2016-11-29T20:47:59.465Z",
+    "title": "Modul 2",
+    "textbook": 4
+  }
+}, {
+  "model": "api.userword",
+  "pk": 2,
+  "fields": {
+    "created": "2016-11-29T22:08:57.305Z",
+    "last_interval": 1.0,
+    "following_reminder": "2016-11-30T22:05:45Z",
+    "memory_lapses": 0,
+    "success_repetitions": 0,
+    "absolute_difficulty": 3,
+    "adaptive_difficulty": 1,
+    "user": 3,
+    "word": 19,
+    "test": 1
+  }
+}, {
+  "model": "api.userword",
+  "pk": 3,
+  "fields": {
+    "created": "2016-11-29T22:09:23.544Z",
+    "last_interval": 1.0,
+    "following_reminder": "2016-11-30T22:09:05Z",
+    "memory_lapses": 0,
+    "success_repetitions": 0,
+    "absolute_difficulty": 1,
+    "adaptive_difficulty": 1,
+    "user": 3,
+    "word": 20,
+    "test": 2
+  }
+}, {
+  "model": "api.group",
+  "pk": 3,
+  "fields": {
+    "created": "2016-11-29T21:30:59.727Z",
+    "modified": "2016-11-29T21:30:59.727Z",
+    "title": "1.A",
+    "name": "1_a",
+    "password": "1_a",
+    "owner": 2,
+    "users": [
+      3,
+      4,
+      6
+    ]
+  }
+}, {
+  "model": "api.group",
+  "pk": 4,
+  "fields": {
+    "created": "2016-11-29T21:35:29.693Z",
+    "modified": "2016-11-29T21:35:29.693Z",
+    "title": "2.B",
+    "name": "2_b",
+    "password": "2_b",
+    "owner": 2,
+    "users": [
+      5
+    ]
+  }
+}, {
+  "model": "api.test",
+  "pk": 1,
+  "fields": {
+    "created": "2016-11-29T21:36:04.654Z",
+    "modified": "2016-11-29T21:36:04.654Z",
+    "title": "Test 2.10",
+    "hidden": false,
+    "textbook": 2,
+    "owner": 2,
+    "groups": [
+      3
+    ],
+    "words": [
+
+    ]
+  }
+}, {
+  "model": "api.test",
+  "pk": 2,
+  "fields": {
+    "created": "2016-11-29T21:37:11.866Z",
+    "modified": "2016-11-29T21:37:11.866Z",
+    "title": "P\u0159\u00edprava na z\u00e1v\u011bre\u010dn\u00fd test",
+    "hidden": false,
+    "textbook": 2,
+    "owner": 2,
+    "groups": [
+      3
+    ],
+    "words": [
+
+    ]
+  }
+}]

@@ -1,0 +1,115 @@
+[{
+  "model": "api.language",
+  "pk": 1,
+  "fields": {
+    "title": "angli\u010dtina",
+    "abbreviation": "en"
+  }
+}, {
+  "model": "api.language",
+  "pk": 2,
+  "fields": {
+    "title": "n\u011bm\u010dina",
+    "abbreviation": "de"
+  }
+}, {
+  "model": "api.language",
+  "pk": 3,
+  "fields": {
+    "title": "\u0161pan\u011bl\u0161tina",
+    "abbreviation": "sp"
+  }
+}, {
+  "model": "api.difficulty",
+  "pk": 1,
+  "fields": {
+    "title": "snadn\u00e9"
+  }
+}, {
+  "model": "api.difficulty",
+  "pk": 2,
+  "fields": {
+    "title": "st\u0159edn\u00ed"
+  }
+}, {
+  "model": "api.difficulty",
+  "pk": 3,
+  "fields": {
+    "title": "t\u011b\u017ek\u00e9"
+  }
+}, {
+  "model": "api.difficulty",
+  "pk": 4,
+  "fields": {
+    "title": "nemo\u017en\u00e9"
+  }
+}, {
+  "model": "api.wordclass",
+  "pk": 1,
+  "fields": {
+    "title": "podstatn\u00e9 jm\u00e9no"
+  }
+}, {
+  "model": "api.wordclass",
+  "pk": 2,
+  "fields": {
+    "title": "p\u0159\u00eddavn\u00e9 jm\u00e9no"
+  }
+}, {
+  "model": "api.wordclass",
+  "pk": 3,
+  "fields": {
+    "title": "z\u00e1jmeno"
+  }
+}, {
+  "model": "api.wordclass",
+  "pk": 5,
+  "fields": {
+    "title": "sloveso"
+  }
+}, {
+  "model": "api.wordclass",
+  "pk": 6,
+  "fields": {
+    "title": "p\u0159\u00edslovce"
+  }
+}, {
+  "model": "api.wordclass",
+  "pk": 7,
+  "fields": {
+    "title": "p\u0159edlo\u017eka"
+  }
+}, {
+  "model": "api.wordclass",
+  "pk": 8,
+  "fields": {
+    "title": "spojka"
+  }
+}, {
+  "model": "api.wordclass",
+  "pk": 11,
+  "fields": {
+    "title": "ostatn\u00ed"
+  }
+}, {
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$30000$pCVPpawnymXC$poid50xwcSnjSwa7YBjwSSHOftW/fxLLy1C5sHtlk5I=",
+    "last_login": null,
+    "is_superuser": true,
+    "username": "daniel",
+    "first_name": "Daniel",
+    "last_name": "Maděra",
+    "email": "madera.dan@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2016-12-01T00:21:37.549Z",
+    "groups": [
+
+    ],
+    "user_permissions": [
+
+    ]
+  }
+}]
